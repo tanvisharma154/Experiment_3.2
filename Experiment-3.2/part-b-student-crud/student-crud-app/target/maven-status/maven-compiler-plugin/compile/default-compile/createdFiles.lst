@@ -1,0 +1,4 @@
+com/example/student/entity/Student.class
+com/example/student/util/HibernateUtil.class
+com/example/student/App.class
+com/example/student/dao/StudentDAO.class
